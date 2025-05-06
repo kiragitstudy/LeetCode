@@ -34,8 +34,7 @@ public class OldSolution
 
 
 
-
-
+    //https://leetcode.com/problems/text-justification/description/
     
     public IList<string> FullJustify(string[] words, int maxWidth)
     {
