@@ -29,6 +29,14 @@ public class OldSolution
         if (max < count) max = count;
         return max;
     }
+
+
+
+
+
+
+
+    
     public IList<string> FullJustify(string[] words, int maxWidth)
     {
         int temp_max = maxWidth;
